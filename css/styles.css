@@ -1,0 +1,115 @@
+
+.navbar-brand
+{
+
+  font-weight: bolder;
+}
+
+.nav-item {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+.covid_page {
+  text-align: center;
+  background-color: #e1f5fc;
+
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.doctor {
+  width: 60%;
+  margin-top: 100px;
+}
+
+body {
+font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  margin: 0;
+
+}
+h1 {
+
+font-family: 'Montserrat', sans-serif;
+  color: #6d3bc0;
+
+}
+ h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+
+}
+.white
+{
+  background-color:#f7fbfc;
+
+}
+.information {
+  padding-top: 115px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  text-align: center;
+
+
+}
+
+.image {
+  background-color: #e1f5fc;
+  margin: 0;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+  background-color: #e1f5fc;
+}
+
+.first {
+  text-align: center;
+  padding-top: 100px;
+  padding-left: 50px;
+}
+
+.feature-box {
+  padding-top: 100px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.tracker {
+  text-align: center;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color:#e1f5fc;
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+
+.price {
+  padding-top: 100px;
+
+}
+.Learn
+{
+  border-radius: 17px;
+}
+
+.fas {
+  color: #6d3bc0;
+}
+.social-icon {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 20px 10px;
+  color: #6d3bc0;
+}
+@media (max-width: 1028px) {
+  .doctor {
+    position: static;
+    transform: rotate(0);
+  }
+}
